@@ -93,7 +93,47 @@ header {
 
 #paragraph {
   color: #FAA916;
+  font-size: large;
+  text-align: center;
 }
+@media screen and (min-width: 560px) {
+
+
+#paragraph {
+  color: #FAA916;
+  font-size: x-large;
+  text-align: center;
+}
+}
+@media screen and (min-width: 1200px) {
+
+
+  #paragraph {
+    color: #FAA916;
+    font-size: xx-large;
+    text-align: center;
+  }
+  }
+
+
+/**************** caroussel ***************/
+
+#carouselExampleDark {
+  
+  margin: auto;
+  width: 60vw;
+  height: auto;
+  margin-top: 5vh;
+  
+}
+
+.articles {
+  margin: auto;
+  width: 80vw;
+  height: auto;
+  margin-top: 5vh;
+}
+
 
 /************** Popup *********************/
 .btnPopup{
@@ -101,7 +141,7 @@ header {
   padding: 1em 2em;
   cursor: pointer;
   }
-  
+
 .overlay {
   position: fixed;
   left: 0px;
