@@ -83,6 +83,7 @@ textarea {
   resize: vertical;
 }
 
+
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
@@ -167,6 +168,23 @@ header {
       color: rgb(26, 26, 26);
       }
 
+      /****************************** Rules Footer ***********************/
+
+      #footerLarge {
+        display: none;
+      }
+
+      #footerMobile {
+        display: block;
+      }
+      @media screen and (min-width: 650px) {
+        #footerMobile {
+          display: none;
+        }
+        #footerLarge {
+          display: block;
+        }
+      }
   
 /* ==========================================================================
    Helper classes
