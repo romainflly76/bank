@@ -65,3 +65,8 @@ html, body {
     background: #fff;
     color: #000;
   }
+
+  #thead {
+    background-color: #6D676E;
+    color: #FAA916;
+  }
