@@ -10,13 +10,24 @@
   
   
   body {
-    margin:0;
+    /*margin:0;*/
     /*background:#6D676E;*/
-    background: url(../img/close-up-on-little-girl-having-fun-at-home.jpg) center center;
-    opacity:0.75;
 
+    
+    background: url(../img/close-up-on-little-girl-having-fun-at-home.jpg) center center no-repeat;
+    
+    
     background-size: cover;
     
+
+    /*opacity: 0.2;
+    color: #fff;
+    background: #000 url("https://bootstrapcreative.com/wp-bc/wp-content/uploads/2017/03/learning-story.png") top center no-repeat;*/
+
+
+
+
+
     /*font-size:1.3em;
     color:#333;*/
     font-family:'Open Sans', sans-serif;
