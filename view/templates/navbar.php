@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Site Fil rouge Banque</title>
+    <title>Site Fil rouge Banque PHP</title>
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -107,7 +107,7 @@
                         <li><a href="moncomptebancaire.php">Mon Compte</a></li>
                         <li><a href="Statistiques.php">Statistique</a></li>
                         <li><a href="actualites.php">Actualités</a></li>
-                        <li><a class="btn" style="background-color: #2a5f77;" href="login.html">LOG IN</a></li>
+                        <li><a class="btn" style="background-color: #2a5f77;" href="login.php">LOG IN</a></li>
                     </ul>
                 </div>
             </nav>
