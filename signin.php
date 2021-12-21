@@ -54,12 +54,12 @@
           <div class="form-group">
             <label for="email">Email</label>
             <input type="text" class="form-control" name="email"/>
-            <small></small>
+            <small style="font-size: 1.2em;"></small>
           </div>
           <div class="form-group">
             <label for="password">Password</label>
             <input type="text" class="form-control" name="password"/>
-            <small></small>
+            <small style="font-size: 1.2em;"></small>
           </div>
     
         <div class="checkbox mb-3">
@@ -69,7 +69,7 @@
         </div>
       </form>
       
-      <a href="moncomptebancaire.html"><button id="signin" class="w-100 btn btn-lg text-white" type="submit">Connexion</button></a>
+      <a href="moncomptebancaire.php"><button id="signin" class="w-100 btn btn-lg text-white" type="submit">Connexion</button></a>
         <p class="mt-5 mb-3 text-white">&copy; 2017–2021</p>
     </main>
     
